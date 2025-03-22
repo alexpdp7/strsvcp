@@ -1,5 +1,7 @@
 # Streaming service plan
 
+With [`example.yaml`](example.yaml):
+
 ```
 $ uv run strsvcp-fetch
 ```
