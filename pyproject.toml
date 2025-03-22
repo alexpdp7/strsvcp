@@ -1,0 +1,16 @@
+[project]
+name = "strsvcp"
+version = "0.1.0"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "appdirs>=1.4.4",
+    "pyyaml>=6.0.2",
+]
+
+[project.scripts]
+strsvcp-fetch = "strsvcp:fetch"
+strsvcp-weekplan = "strsvcp:weekplan"
+
+[tool.uv]
+package = true

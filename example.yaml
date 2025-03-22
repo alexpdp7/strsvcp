@@ -1,0 +1,66 @@
+disney:
+  spider-man:
+    tvmaze: 58952
+    seen: 2
+  daredevil:
+    tvmaze: 63234
+    seen: 4
+  ironheart:
+    tvmaze: 47859
+  wakanda:
+    tvmaze: 73415
+  zombies:
+    tvmaze: 58949
+  wonder_man:
+    tvmaze: 62569
+  sw_visions:
+    tvmaze: 52340
+    seen: 18
+  only_murders:
+    tvmaze: 48830
+    seen: 40
+  vision:
+    tvmaze: 64950
+  x-men_97:
+    tvmaze: 58951
+    seen: 10
+crunchy:
+  apothecary:
+    tvmaze: 67017
+    seen: 35
+  bocchi:
+    tvmaze: 64321
+    seen: 12
+netflix:
+  sandman:
+    tvmaze: 42827
+    seen: 10
+  black_mirror:
+    tvmaze: 305
+    seen: 26
+  my_happy_marriage:
+    tvmaze: 69124
+  evangelion:
+    tvmaze: 1925
+  blue_eye_samurai:
+    tvmaze: 51112
+  sakamoto_days:
+    tvmaze: 77383
+  ranma:
+    tvmaze: 79151
+  inuyasha:
+    tvmaze: 4247
+unknown:
+  st_snw:
+    tvmaze: 48090
+    seen: 20
+amazon:
+  rings:
+    tvmaze: 33352
+    seen: 16
+  banana_fish:
+    tvmaze: 32851
+hbo:
+  hacks:
+    tvmaze: 54914
+    seen: 27
